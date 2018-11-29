@@ -1,2 +1,692 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Books />
+<Books>
+  <Book Name="MC-FPSEWM">
+    <Revision Date="2007-08-10" Version="0.1" Class="Major" />
+    <Revision Date="2007-09-28" Version="0.2" Class="Minor" />
+    <Revision Date="2007-10-23" Version="0.3" Class="Minor" />
+    <Revision Date="2007-11-30" Version="0.4" Class="Minor" />
+    <Revision Date="2008-01-25" Version="0.4.1" Class="Editorial" />
+    <Revision Date="2008-03-14" Version="1.0" Class="Major" />
+    <Revision Date="2008-05-16" Version="1.0.1" Class="Editorial" />
+    <Revision Date="2008-06-20" Version="1.1" Class="Minor" />
+    <Revision Date="2008-07-25" Version="1.1.1" Class="Editorial" />
+    <Revision Date="2008-08-29" Version="2.0" Class="Major" />
+    <Revision Date="2008-10-24" Version="2.1" Class="Minor" />
+    <Revision Date="2008-12-05" Version="3.0" Class="Major" />
+    <Revision Date="2009-01-16" Version="3.0.1" Class="Editorial" />
+    <Revision Date="2009-02-27" Version="3.0.2" Class="Editorial" />
+    <Revision Date="2009-04-10" Version="3.0.3" Class="Editorial" />
+    <Revision Date="2009-05-22" Version="3.1" Class="Minor" />
+    <Revision Date="2009-07-02" Version="4.0" Class="Major" />
+    <Revision Date="2009-08-14" Version="4.1" Class="Minor" />
+    <Revision Date="2009-09-25" Version="4.2" Class="Minor" />
+    <Revision Date="2009-11-06" Version="4.2.1" Class="Editorial" />
+    <Revision Date="2009-12-18" Version="4.2.2" Class="Editorial" />
+    <Revision Date="2010-01-29" Version="4.3" Class="Minor" />
+    <Revision Date="2010-03-12" Version="4.3.1" Class="Editorial" />
+    <Revision Date="2010-04-23" Version="5.0" Class="Major" />
+    <Revision Date="2010-06-04" Version="6.0" Class="Major" />
+    <Revision Date="2010-07-16" Version="6.1" Class="Minor" />
+    <Revision Date="2010-08-27" Version="6.1" Class="None" />
+    <Revision Date="2010-10-08" Version="7.0" Class="Major" />
+    <Revision Date="2010-11-19" Version="8.0" Class="Major" />
+    <Revision Date="2011-01-07" Version="8.0" Class="None" />
+    <Revision Date="2011-02-11" Version="8.0" Class="None" />
+    <Revision Date="2011-03-25" Version="8.0" Class="None" />
+    <Revision Date="2011-05-06" Version="8.0" Class="None" />
+    <Revision Date="2011-06-17" Version="8.1" Class="Minor" />
+    <Revision Date="2011-09-23" Version="8.1" Class="None" />
+    <Revision Date="2011-12-16" Version="8.1" Class="None" />
+    <Revision Date="2012-03-30" Version="8.1" Class="None" />
+    <Revision Date="2012-07-12" Version="8.1" Class="None" />
+    <Revision Date="2012-09-12" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-120912.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-10-08" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-121008.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-02-11" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-130211.doc" Type="DOCX" />
+      <File Name="[MC-FPSEWM]-130211.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-07-30" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-130730.doc" Type="DOCX" />
+      <File Name="[MC-FPSEWM]-130730.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-11-18" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-131118.doc" Type="DOCX" />
+      <File Name="[MC-FPSEWM]-131118.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-02-10" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-140210.doc" Type="DOCX" />
+      <File Name="[MC-FPSEWM]-140210.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-04-30" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-140430.doc" Type="DOCX" />
+      <File Name="[MC-FPSEWM]-140430.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-07-31" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-140731.doc" Type="DOCX" />
+      <File Name="[MC-FPSEWM]-140731.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-10-30" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-141030.doc" Type="DOCX" />
+      <File Name="[MC-FPSEWM]-141030.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-06-23" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-160623.pdf" Type="PDF" />
+      <File Name="[MC-FPSEWM]-160623.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="8.1" Class="None">
+      <File Name="[MC-FPSEWM]-160914.pdf" Type="PDF" />
+      <File Name="[MC-FPSEWM]-160914.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-07-24" Version="8.2" Class="Minor">
+      <File Name="[MC-FPSEWM]-180724.pdf" Type="PDF" />
+      <File Name="[MC-FPSEWM]-180724.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+  <Book Name="MS-3DMDTP">
+    <Revision Date="2014-02-10" Version="0.1" Class="New">
+      <File Name="[MS-3DMDTP]-140210.doc" Type="DOCX" />
+      <File Name="[MS-3DMDTP]-140210.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-04-30" Version="1.0" Class="Major">
+      <File Name="[MS-3DMDTP]-140430.doc" Type="DOCX" />
+      <File Name="[MS-3DMDTP]-140430.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-07-31" Version="1.1" Class="Minor">
+      <File Name="[MS-3DMDTP]-140731.doc" Type="DOCX" />
+      <File Name="[MS-3DMDTP]-140731.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-10-30" Version="1.1" Class="None">
+      <File Name="[MS-3DMDTP]-141030.doc" Type="DOCX" />
+      <File Name="[MS-3DMDTP]-141030.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2015-09-04" Version="2.0" Class="Major">
+      <File Name="[MS-3DMDTP]-150904.docx" Type="DOCX" />
+      <File Name="[MS-3DMDTP]-150904.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-07-15" Version="2.0" Class="None">
+      <File Name="[MS-3DMDTP]-160715.pdf" Type="PDF" />
+      <File Name="[MS-3DMDTP]-160715.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="2.0" Class="None">
+      <File Name="[MS-3DMDTP]-160914.pdf" Type="PDF" />
+      <File Name="[MS-3DMDTP]-160914.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-04-27" Version="3.0" Class="Major">
+      <File Name="[MS-3DMDTP]-180427.pdf" Type="PDF" />
+      <File Name="[MS-3DMDTP]-180427.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-08-28" Version="4.0" Class="Major">
+      <File Name="[MS-3DMDTP]-180828.pdf" Type="PDF" />
+      <File Name="[MS-3DMDTP]-180828.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+  <Book Name="MS-AADT">
+    <Revision Date="2012-01-20" Version="0.1" Class="New">
+      <File Name="[MS-AADT]-120120.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-04-11" Version="0.1" Class="None">
+      <File Name="[MS-AADT]-120411.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-07-16" Version="0.1" Class="None">
+      <File Name="[MS-AADT]-120716.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-09-12" Version="0.1" Class="None">
+      <File Name="[MS-AADT]-120912.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-10-08" Version="1.0" Class="Major">
+      <File Name="[MS-AADT]-121008.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-02-11" Version="1.1" Class="Minor">
+      <File Name="[MS-AADT]-130211.doc" Type="DOCX" />
+      <File Name="[MS-AADT]-130211.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-07-30" Version="1.1" Class="None">
+      <File Name="[MS-AADT]-130730.doc" Type="DOCX" />
+      <File Name="[MS-AADT]-130730.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-11-18" Version="1.1" Class="None">
+      <File Name="[MS-AADT]-131118.doc" Type="DOCX" />
+      <File Name="[MS-AADT]-131118.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-02-10" Version="1.1" Class="None">
+      <File Name="[MS-AADT]-140210.doc" Type="DOCX" />
+      <File Name="[MS-AADT]-140210.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-04-30" Version="1.2" Class="Minor">
+      <File Name="[MS-AADT]-140430.doc" Type="DOCX" />
+      <File Name="[MS-AADT]-140430.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-07-31" Version="1.2" Class="None">
+      <File Name="[MS-AADT]-140731.doc" Type="DOCX" />
+      <File Name="[MS-AADT]-140731.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-10-30" Version="1.2" Class="None">
+      <File Name="[MS-AADT]-141030.doc" Type="DOCX" />
+      <File Name="[MS-AADT]-141030.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-02-26" Version="2.0" Class="Major">
+      <File Name="[MS-AADT]-160226.docx" Type="DOCX" />
+      <File Name="[MS-AADT]-160226.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-07-15" Version="2.0" Class="None">
+      <File Name="[MS-AADT]-160715.pdf" Type="PDF" />
+      <File Name="[MS-AADT]-160715.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="2.0" Class="None">
+      <File Name="[MS-AADT]-160914.pdf" Type="PDF" />
+      <File Name="[MS-AADT]-160914.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2017-06-20" Version="2.1" Class="Minor">
+      <File Name="[MS-AADT]-170620.pdf" Type="PDF" />
+      <File Name="[MS-AADT]-170620.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2017-09-19" Version="2.2" Class="Minor">
+      <File Name="[MS-AADT]-170919.pdf" Type="PDF" />
+      <File Name="[MS-AADT]-170919.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-07-24" Version="2.2" Class="None">
+      <File Name="[MS-AADT]-180724.pdf" Type="PDF" />
+      <File Name="[MS-AADT]-180724.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-10-01" Version="2.2" Class="None">
+      <File Name="[MS-AADT]-181001.pdf" Type="PDF" />
+      <File Name="[MS-AADT]-181001.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+  <Book Name="MS-ABS">
+    <Revision Date="2008-04-04" Version="0.1" Class="Major" />
+    <Revision Date="2008-04-25" Version="0.2" Class="Major" />
+    <Revision Date="2008-06-27" Version="1.0" Class="Major" />
+    <Revision Date="2008-08-15" Version="1.01" Class="Editorial" />
+    <Revision Date="2008-12-12" Version="2.0" Class="Major" />
+    <Revision Date="2009-02-13" Version="2.01" Class="Editorial" />
+    <Revision Date="2009-03-13" Version="2.02" Class="Editorial" />
+    <Revision Date="2009-07-13" Version="2.03" Class="Major" />
+    <Revision Date="2009-08-28" Version="2.04" Class="Editorial" />
+    <Revision Date="2009-11-06" Version="2.05" Class="Editorial" />
+    <Revision Date="2010-02-19" Version="2.06" Class="Editorial" />
+    <Revision Date="2010-03-31" Version="2.07" Class="Major" />
+    <Revision Date="2010-04-30" Version="2.08" Class="Editorial" />
+    <Revision Date="2010-06-07" Version="2.09" Class="Editorial" />
+    <Revision Date="2010-06-29" Version="2.10" Class="Editorial" />
+    <Revision Date="2010-07-23" Version="2.10" Class="None" />
+    <Revision Date="2010-09-27" Version="3.0" Class="Major" />
+    <Revision Date="2010-11-15" Version="3.0" Class="None" />
+    <Revision Date="2010-12-17" Version="3.0" Class="None" />
+    <Revision Date="2011-03-18" Version="3.0" Class="None" />
+    <Revision Date="2011-06-10" Version="3.0" Class="None" />
+    <Revision Date="2012-01-20" Version="3.1" Class="Minor">
+      <File Name="[MS-ABS]-120120.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-04-11" Version="3.1" Class="None">
+      <File Name="[MS-ABS]-120411.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-07-16" Version="3.1" Class="None">
+      <File Name="[MS-ABS]-120716.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-10-08" Version="3.2" Class="Minor">
+      <File Name="[MS-ABS]-121008.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-02-11" Version="3.2" Class="None">
+      <File Name="[MS-ABS]-130211.doc" Type="DOCX" />
+      <File Name="[MS-ABS]-130211.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-07-30" Version="3.3" Class="Minor">
+      <File Name="[MS-ABS]-130730.doc" Type="DOCX" />
+      <File Name="[MS-ABS]-130730.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-11-18" Version="3.3" Class="None">
+      <File Name="[MS-ABS]-131118.doc" Type="DOCX" />
+      <File Name="[MS-ABS]-131118.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-02-10" Version="3.3.1" Class="Editorial">
+      <File Name="[MS-ABS]-140210.doc" Type="DOCX" />
+      <File Name="[MS-ABS]-140210.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-04-30" Version="3.3.1" Class="None">
+      <File Name="[MS-ABS]-140430.doc" Type="DOCX" />
+    </Revision>
+    <Revision Date="2014-07-31" Version="3.3.1" Class="None">
+      <File Name="[MS-ABS]-140731.doc" Type="DOCX" />
+      <File Name="[MS-ABS]-140731.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-10-30" Version="3.3.1" Class="None">
+      <File Name="[MS-ABS]-141030.doc" Type="DOCX" />
+      <File Name="[MS-ABS]-141030.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2015-03-30" Version="4.0" Class="Major">
+      <File Name="[MS-ABS]-150330.docx" Type="DOCX" />
+      <File Name="[MS-ABS]-150330.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2015-09-04" Version="4.0" Class="None">
+      <File Name="[MS-ABS]-150904.docx" Type="DOCX" />
+      <File Name="[MS-ABS]-150904.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-07-15" Version="4.0" Class="None">
+      <File Name="[MS-ABS]-160715.pdf" Type="PDF" />
+      <File Name="[MS-ABS]-160715.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="4.0" Class="None">
+      <File Name="[MS-ABS]-160914.pdf" Type="PDF" />
+      <File Name="[MS-ABS]-160914.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-04-27" Version="5.0" Class="Major">
+      <File Name="[MS-ABS]-180427.pdf" Type="PDF" />
+      <File Name="[MS-ABS]-180427.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-07-24" Version="6.0" Class="Major">
+      <File Name="[MS-ABS]-180724.pdf" Type="PDF" />
+      <File Name="[MS-ABS]-180724.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-08-28" Version="7.0" Class="Major">
+      <File Name="[MS-ABS]-180828.pdf" Type="PDF" />
+      <File Name="[MS-ABS]-180828.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+  <Book Name="MS-ACCDT">
+    <Revision Date="2009-07-13" Version="0.1" Class="Major" />
+    <Revision Date="2009-08-28" Version="0.2" Class="Editorial" />
+    <Revision Date="2009-11-06" Version="0.3" Class="Editorial" />
+    <Revision Date="2010-02-19" Version="1.0" Class="Major" />
+    <Revision Date="2010-03-31" Version="1.01" Class="Editorial" />
+    <Revision Date="2010-04-30" Version="1.02" Class="Editorial" />
+    <Revision Date="2010-06-07" Version="1.03" Class="Minor" />
+    <Revision Date="2010-06-29" Version="1.04" Class="Editorial" />
+    <Revision Date="2010-07-23" Version="1.04" Class="None" />
+    <Revision Date="2010-09-27" Version="1.04" Class="None" />
+    <Revision Date="2010-11-15" Version="1.05" Class="Minor" />
+    <Revision Date="2010-12-17" Version="1.05" Class="None" />
+    <Revision Date="2011-03-18" Version="1.05" Class="None" />
+    <Revision Date="2011-06-10" Version="1.05" Class="None" />
+    <Revision Date="2012-01-20" Version="1.6" Class="Minor">
+      <File Name="[MS-ACCDT]-120120.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-04-11" Version="1.6" Class="None">
+      <File Name="[MS-ACCDT]-120411.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-07-16" Version="1.6" Class="None">
+      <File Name="[MS-ACCDT]-120716.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-09-12" Version="1.6" Class="None">
+      <File Name="[MS-ACCDT]-120912.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-10-08" Version="1.7" Class="Minor">
+      <File Name="[MS-ACCDT]-121008.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-02-11" Version="1.7" Class="None">
+      <File Name="[MS-ACCDT]-130211.doc" Type="DOCX" />
+      <File Name="[MS-ACCDT]-130211.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-07-30" Version="1.8" Class="Minor">
+      <File Name="[MS-ACCDT]-130730.doc" Type="DOCX" />
+      <File Name="[MS-ACCDT]-130730.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-11-18" Version="1.9" Class="Minor">
+      <File Name="[MS-ACCDT]-131118.doc" Type="DOCX" />
+      <File Name="[MS-ACCDT]-131118.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-02-10" Version="1.9.1" Class="Editorial">
+      <File Name="[MS-ACCDT]-140210.doc" Type="DOCX" />
+      <File Name="[MS-ACCDT]-140210.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-04-30" Version="1.10" Class="Minor">
+      <File Name="[MS-ACCDT]-140430.doc" Type="DOCX" />
+      <File Name="[MS-ACCDT]-140430.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-07-31" Version="1.10" Class="None">
+      <File Name="[MS-ACCDT]-140731.doc" Type="DOCX" />
+      <File Name="[MS-ACCDT]-140731.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-10-30" Version="1.10" Class="None">
+      <File Name="[MS-ACCDT]-141030.doc" Type="DOCX" />
+      <File Name="[MS-ACCDT]-141030.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-02-26" Version="2.0" Class="Major">
+      <File Name="[MS-ACCDT]-160226.docx" Type="DOCX" />
+      <File Name="[MS-ACCDT]-160226.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-07-15" Version="2.0" Class="None">
+      <File Name="[MS-ACCDT]-160715.pdf" Type="PDF" />
+      <File Name="[MS-ACCDT]-160715.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="2.0" Class="None">
+      <File Name="[MS-ACCDT]-160914.pdf" Type="PDF" />
+      <File Name="[MS-ACCDT]-160914.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-29" Version="2.0" Class="None">
+      <File Name="[MS-ACCDT]-160929.pdf" Type="PDF" />
+      <File Name="[MS-ACCDT]-160929.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-07-24" Version="3.0" Class="Major">
+      <File Name="[MS-ACCDT]-180724.pdf" Type="PDF" />
+      <File Name="[MS-ACCDT]-180724.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-10-01" Version="4.0" Class="Major">
+      <File Name="[MS-ACCDT]-181001.pdf" Type="PDF" />
+      <File Name="[MS-ACCDT]-181001.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+  <Book Name="MS-ACMAUDWS">
+    <Revision Date="2012-07-16" Version="0.1" Class="New">
+      <File Name="[MS-ACMAUDWS]-120716.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-09-12" Version="0.1" Class="None">
+      <File Name="[MS-ACMAUDWS]-120912.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-10-08" Version="0.2" Class="Major">
+      <File Name="[MS-ACMAUDWS]-121008.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-02-11" Version="1.0" Class="None">
+      <File Name="[MS-ACMAUDWS]-130211.doc" Type="DOCX" />
+      <File Name="[MS-ACMAUDWS]-130211.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-07-30" Version="1.0" Class="None">
+      <File Name="[MS-ACMAUDWS]-130730.doc" Type="DOCX" />
+      <File Name="[MS-ACMAUDWS]-130730.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-11-18" Version="1.1" Class="Minor">
+      <File Name="[MS-ACMAUDWS]-131118.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-02-10" Version="1.1" Class="None">
+      <File Name="[MS-ACMAUDWS]-140210.doc" Type="DOCX" />
+      <File Name="[MS-ACMAUDWS]-140210.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-04-30" Version="1.1" Class="None">
+      <File Name="[MS-ACMAUDWS]-140430.doc" Type="DOCX" />
+      <File Name="[MS-ACMAUDWS]-140430.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-07-31" Version="1.2" Class="Minor">
+      <File Name="[MS-ACMAUDWS]-140731.doc" Type="DOCX" />
+      <File Name="[MS-ACMAUDWS]-140731.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-10-30" Version="1.2" Class="None">
+      <File Name="[MS-ACMAUDWS]-141030.doc" Type="DOCX" />
+      <File Name="[MS-ACMAUDWS]-141030.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-02-26" Version="2.0" Class="Major">
+      <File Name="[MS-ACMAUDWS]-160226.docx" Type="DOCX" />
+      <File Name="[MS-ACMAUDWS]-160226.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-07-15" Version="2.0" Class="None">
+      <File Name="[MS-ACMAUDWS]-160715.pdf" Type="PDF" />
+      <File Name="[MS-ACMAUDWS]-160715.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="2.0" Class="None">
+      <File Name="[MS-ACMAUDWS]-160914.pdf" Type="PDF" />
+      <File Name="[MS-ACMAUDWS]-160914.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+  <Book Name="MS-ADMINS">
+    <Revision Date="2008-04-04" Version="0.1" Class="New" />
+    <Revision Date="2008-06-27" Version="1.0" Class="Major" />
+    <Revision Date="2008-10-06" Version="1.01" Class="Editorial" />
+    <Revision Date="2008-12-12" Version="1.02" Class="Editorial" />
+    <Revision Date="2009-07-13" Version="1.03" Class="Major" />
+    <Revision Date="2009-08-28" Version="1.04" Class="Editorial" />
+    <Revision Date="2009-11-06" Version="1.05" Class="Editorial" />
+    <Revision Date="2010-02-19" Version="2.0" Class="Minor" />
+    <Revision Date="2010-03-31" Version="2.01" Class="Editorial" />
+    <Revision Date="2010-04-30" Version="2.02" Class="Editorial" />
+    <Revision Date="2010-06-07" Version="2.03" Class="Editorial" />
+    <Revision Date="2010-06-29" Version="2.04" Class="Editorial" />
+    <Revision Date="2010-07-23" Version="2.04" Class="None" />
+    <Revision Date="2010-09-27" Version="2.04" Class="None" />
+    <Revision Date="2010-11-15" Version="2.04" Class="None" />
+    <Revision Date="2010-12-17" Version="2.04" Class="None" />
+    <Revision Date="2011-03-18" Version="2.04" Class="None" />
+    <Revision Date="2011-06-10" Version="2.04" Class="None" />
+    <Revision Date="2012-01-20" Version="3.0" Class="Major">
+      <File Name="[MS-ADMINS]-120120.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-04-11" Version="3.0" Class="None">
+      <File Name="[MS-ADMINS]-120411.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-07-16" Version="3.0" Class="None">
+      <File Name="[MS-ADMINS]-120716.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-09-12" Version="3.0" Class="None">
+      <File Name="[MS-ADMINS]-120912.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-10-08" Version="3.1" Class="Minor">
+      <File Name="[MS-ADMINS]-121008.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-02-11" Version="4.0" Class="Major">
+      <File Name="[MS-ADMINS]-130211.doc" Type="DOCX" />
+      <File Name="[MS-ADMINS]-130211.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-07-30" Version="4.1" Class="Minor">
+      <File Name="[MS-ADMINS]-130730.doc" Type="DOCX" />
+      <File Name="[MS-ADMINS]-130730.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-11-18" Version="4.1" Class="None">
+      <File Name="[MS-ADMINS]-131118.doc" Type="DOCX" />
+      <File Name="[MS-ADMINS]-131118.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-02-10" Version="4.1" Class="None">
+      <File Name="[MS-ADMINS]-140210.doc" Type="DOCX" />
+      <File Name="[MS-ADMINS]-140210.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-04-30" Version="4.1" Class="None">
+      <File Name="[MS-ADMINS]-140430.doc" Type="DOCX" />
+      <File Name="[MS-ADMINS]-140430.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-07-31" Version="4.1" Class="None">
+      <File Name="[MS-ADMINS]-140731.doc" Type="DOCX" />
+      <File Name="[MS-ADMINS]-140731.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-10-30" Version="4.1" Class="None">
+      <File Name="[MS-ADMINS]-141030.doc" Type="DOCX" />
+      <File Name="[MS-ADMINS]-141030.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-02-26" Version="5.0" Class="Major">
+      <File Name="[MS-ADMINS]-160226.docx" Type="DOCX" />
+      <File Name="[MS-ADMINS]-160226.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-07-15" Version="5.0" Class="None">
+      <File Name="[MS-ADMINS]-160715.pdf" Type="PDF" />
+      <File Name="[MS-ADMINS]-160715.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="5.0" Class="None">
+      <File Name="[MS-ADMINS]-160914.pdf" Type="PDF" />
+      <File Name="[MS-ADMINS]-160914.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-07-24" Version="6.0" Class="Major">
+      <File Name="[MS-ADMINS]-180724.pdf" Type="PDF" />
+      <File Name="[MS-ADMINS]-180724.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-10-01" Version="7.0" Class="Major">
+      <File Name="[MS-ADMINS]-181001.pdf" Type="PDF" />
+      <File Name="[MS-ADMINS]-181001.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+  <Book Name="MS-ADMWS">
+    <Revision Date="2008-04-04" Version="0.1" Class="New" />
+    <Revision Date="2008-06-27" Version="1.0" Class="Major" />
+    <Revision Date="2008-10-06" Version="1.01" Class="Editorial" />
+    <Revision Date="2008-12-12" Version="1.02" Class="Editorial" />
+    <Revision Date="2009-07-13" Version="1.03" Class="Major" />
+    <Revision Date="2009-08-28" Version="1.04" Class="Editorial" />
+    <Revision Date="2009-11-06" Version="1.05" Class="Editorial" />
+    <Revision Date="2010-02-19" Version="2.0" Class="Editorial" />
+    <Revision Date="2010-03-31" Version="2.01" Class="Editorial" />
+    <Revision Date="2010-04-30" Version="2.02" Class="Editorial" />
+    <Revision Date="2010-06-07" Version="2.03" Class="Editorial" />
+    <Revision Date="2010-06-29" Version="2.04" Class="Editorial" />
+    <Revision Date="2010-07-23" Version="2.05" Class="Minor" />
+    <Revision Date="2010-09-27" Version="2.05" Class="None" />
+    <Revision Date="2010-11-15" Version="2.05" Class="None" />
+    <Revision Date="2010-12-17" Version="2.06" Class="Editorial" />
+    <Revision Date="2011-03-18" Version="2.06" Class="None" />
+    <Revision Date="2011-06-10" Version="2.06" Class="None" />
+    <Revision Date="2012-01-20" Version="2.7" Class="Minor">
+      <File Name="[MS-ADMWS]-120120.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-04-11" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-120411.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-07-16" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-120716.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-09-12" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-120912.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-10-08" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-121008.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-02-11" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-130211.doc" Type="DOCX" />
+      <File Name="[MS-ADMWS]-130211.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-07-30" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-130730.doc" Type="DOCX" />
+      <File Name="[MS-ADMWS]-130730.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-11-18" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-131118.doc" Type="DOCX" />
+      <File Name="[MS-ADMWS]-131118.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-02-10" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-140210.doc" Type="DOCX" />
+      <File Name="[MS-ADMWS]-140210.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-04-30" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-140430.doc" Type="DOCX" />
+      <File Name="[MS-ADMWS]-140430.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-07-31" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-140731.doc" Type="DOCX" />
+      <File Name="[MS-ADMWS]-140731.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-10-30" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-141030.doc" Type="DOCX" />
+      <File Name="[MS-ADMWS]-141030.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-06-23" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-160623.pdf" Type="PDF" />
+      <File Name="[MS-ADMWS]-160623.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-160914.pdf" Type="PDF" />
+      <File Name="[MS-ADMWS]-160914.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-29" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-160929.pdf" Type="PDF" />
+      <File Name="[MS-ADMWS]-160929.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-10-17" Version="2.7" Class="None">
+      <File Name="[MS-ADMWS]-161017.pdf" Type="PDF" />
+      <File Name="[MS-ADMWS]-161017.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2017-09-19" Version="2.8" Class="Minor">
+      <File Name="[MS-ADMWS]-170919.pdf" Type="PDF" />
+      <File Name="[MS-ADMWS]-170919.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2017-12-12" Version="3.0" Class="Major">
+      <File Name="[MS-ADMWS]-171212.pdf" Type="PDF" />
+      <File Name="[MS-ADMWS]-171212.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+  <Book Name="MS-ADR">
+    <Revision Date="2012-01-20" Version="0.1" Class="New">
+      <File Name="[MS-ADR]-120120.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-04-11" Version="0.1" Class="None">
+      <File Name="[MS-ADR]-120411.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-07-16" Version="0.1" Class="None">
+      <File Name="[MS-ADR]-120716.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-09-12" Version="0.1" Class="None">
+      <File Name="[MS-ADR]-120912.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2012-10-08" Version="1.0" Class="Major">
+      <File Name="[MS-ADR]-121008.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-02-11" Version="2.0" Class="Major">
+      <File Name="[MS-ADR]-130211.doc" Type="DOCX" />
+      <File Name="[MS-ADR]-130211.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-07-30" Version="2.0" Class="None">
+      <File Name="[MS-ADR]-130730.doc" Type="DOCX" />
+      <File Name="[MS-ADR]-130730.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2013-11-18" Version="2.0" Class="None">
+      <File Name="[MS-ADR]-131118.doc" Type="DOCX" />
+      <File Name="[MS-ADR]-131118.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-02-10" Version="2.0" Class="None">
+      <File Name="[MS-ADR]-140210.doc" Type="DOCX" />
+      <File Name="[MS-ADR]-140210.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-04-30" Version="2.1" Class="Minor">
+      <File Name="[MS-ADR]-140430.doc" Type="DOCX" />
+      <File Name="[MS-ADR]-140430.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-07-31" Version="2.2" Class="Minor">
+      <File Name="[MS-ADR]-140731.doc" Type="DOCX" />
+      <File Name="[MS-ADR]-140731.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2014-10-30" Version="2.2" Class="None">
+      <File Name="[MS-ADR]-141030.doc" Type="DOCX" />
+      <File Name="[MS-ADR]-141030.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-06-23" Version="3.0" Class="Major">
+      <File Name="[MS-ADR]-160623.pdf" Type="PDF" />
+      <File Name="[MS-ADR]-160623.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="3.0" Class="None">
+      <File Name="[MS-ADR]-160914.pdf" Type="PDF" />
+      <File Name="[MS-ADR]-160914.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2017-04-28" Version="3.0" Class="None">
+      <File Name="[MS-ADR]-170428.pdf" Type="PDF" />
+      <File Name="[MS-ADR]-170428.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+  <Book Name="MS-ADR2">
+    <Revision Date="2016-02-26" Version="1.0" Class="New">
+      <File Name="[MS-ADR2]-160226.docx" Type="DOCX" />
+      <File Name="[MS-ADR2]-160226.pdf" Type="PDF" />
+    </Revision>
+    <Revision Date="2016-07-15" Version="1.0" Class="None">
+      <File Name="[MS-ADR2]-160715.pdf" Type="PDF" />
+      <File Name="[MS-ADR2]-160715.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-09-14" Version="1.0" Class="None">
+      <File Name="[MS-ADR2]-160914.pdf" Type="PDF" />
+      <File Name="[MS-ADR2]-160914.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2016-12-15" Version="1.1" Class="Minor">
+      <File Name="[MS-ADR2]-161215.pdf" Type="PDF" />
+      <File Name="[MS-ADR2]-161215.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2017-03-28" Version="2.0" Class="Major">
+      <File Name="[MS-ADR2]-170328.pdf" Type="PDF" />
+      <File Name="[MS-ADR2]-170328.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2017-04-28" Version="3.0" Class="Major">
+      <File Name="[MS-ADR2]-170428.pdf" Type="PDF" />
+      <File Name="[MS-ADR2]-170428.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2017-09-19" Version="3.1" Class="Minor">
+      <File Name="[MS-ADR2]-170919.pdf" Type="PDF" />
+      <File Name="[MS-ADR2]-170919.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2017-12-12" Version="4.0" Class="Major">
+      <File Name="[MS-ADR2]-171212.pdf" Type="PDF" />
+      <File Name="[MS-ADR2]-171212.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-07-24" Version="5.0" Class="Major">
+      <File Name="[MS-ADR2]-180724.pdf" Type="PDF" />
+      <File Name="[MS-ADR2]-180724.docx" Type="DOCX" />
+    </Revision>
+    <Revision Date="2018-10-01" Version="6.0" Class="Major">
+      <File Name="[MS-ADR2]-181001.pdf" Type="PDF" />
+      <File Name="[MS-ADR2]-181001.docx" Type="DOCX" />
+    </Revision>
+  </Book>
+</Books>
