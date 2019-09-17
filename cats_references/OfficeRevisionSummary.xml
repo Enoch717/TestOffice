@@ -2044,6 +2044,10 @@
       <File Name="[MS-BDCRAWPS]-181211.pdf" Type="PDF" />
       <File Name="[MS-BDCRAWPS]-181211.docx" Type="DOCX" />
     </Revision>
+    <Revision Date="2019-02-13" Version="7.2" Class="Minor">
+      <File Name="[MS-BDCRAWPS]-190213.pdf" Type="PDF" />
+      <File Name="[MS-BDCRAWPS]-190213.docx" Type="DOCX" />
+    </Revision>
   </Book>
   <Book Name="MS-BDCWPS">
     <Revision Date="2009-07-13" Version="0.1" Class="Major" />
